@@ -18,4 +18,4 @@ length of password can be between 8-128 characters based, the outcome will be de
 
 
 ## Application Apperance 
-<img src ="assets/images/apperance.png">
+<img width="848" alt="apperance" src="https://user-images.githubusercontent.com/74587236/205048002-3b97d868-3081-495b-9f65-7703a0375089.png">
