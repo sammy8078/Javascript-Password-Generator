@@ -7,15 +7,15 @@ length of password can be between 8-128 characters based, the outcome will be de
 ## Usage
 
 1. click the Generate Password button
-(assets/images/button.png)
+<img src="assets/images/button.png">
 
 2. A prompt should appear
-(assets/images/prompt.png)
+<img src="assets/images/prompt.png">
 
 3. follow the prompts and your randomised password will appear in the text box
-assets/images/outcome.png)
+<img src ="assets/images/outcome.png">
 
 
 
 ## Application Apperance 
-(assets/images/apperance.png)
+<img src ="assets/images/apperance.png">
