@@ -11,7 +11,7 @@ length of password can be between 8-128 characters based, the outcome will be de
 
 
 2. A prompt should appear
-<img src="assets/images/prompt.png">
+<img width="332" alt="prompt" src="https://user-images.githubusercontent.com/74587236/205048407-c22fc07e-c6c3-4075-b578-40546cfef64e.png">
 
 3. follow the prompts and your randomised password will appear in the text box
 <img src ="assets/images/outcome.png">
