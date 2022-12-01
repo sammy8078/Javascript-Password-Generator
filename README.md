@@ -7,7 +7,8 @@ length of password can be between 8-128 characters based, the outcome will be de
 ## Usage
 
 1. click the Generate Password button
-<img src="assets/images/button.png">
+<img width="246" alt="button" src="https://user-images.githubusercontent.com/74587236/205048263-6725142a-44a7-4745-a571-aa6005c26821.png">
+
 
 2. A prompt should appear
 <img src="assets/images/prompt.png">
